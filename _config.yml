@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: byeongHoon Lee
-  desc: 게으른 자여 개미한테 부지런함을 배워라 구준모
+  desc: 안녕하세요
   email: qudgns8882@naver.com
   selfie: assets/img/profile.jpg
 
@@ -24,6 +24,7 @@ social:
   instagram:
   keybase:
   linkedin: https://www.linkedin.com/in/qudgns8883/
+  notion: https://bottlenose-asparagus-798.notion.site/248d53b04dac47ddbb3ddf819a9f2398
   pinterest:
   reddit:
   soundcloud:
