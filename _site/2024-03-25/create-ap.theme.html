@@ -38,22 +38,104 @@
 
     <main>
       <div class="post">
-  <h2 class="post-title">Create AP theme</h2>
+  <h2 class="post-title">CinemaCast</h2>
   <div class="post-line"></div>
 
-  <h2 id="create-ap-theme">Create AP theme</h2>
-<p>This is about the ap project.<br />
-I had a management page for my career.<br />
-But this time, I decided to change to the github page.<br />
-By the way, I did not have a favorite theme, so I customized it myself.</p>
+  <h1 id="-cinemacast">📌 Cinemacast</h1>
+<p>“cinema”와 “broadcast”의 결합으로 영화를 브로드캐스팅하여 사용자에게 최신 영화 정보와 편리한 예매 서비스를 제공합니다.</p>
 
-<h2 id="tech">Tech</h2>
-<p>Now that I have a github page, I need to know ruby and jekyll.<br />
-And, html, js, css or so?</p>
+<h2 id="️-프로젝트-소개">🖥️ 프로젝트 소개</h2>
+<p>스프링 부트를 이용해 다양한 영화관 사이트를 참고하여 만든 영화 예매 사이트입니다.</p>
 
-<h2 id="duration">Duration</h2>
-<p>It did not take long to change the existing theme.<br />
-I made it by modifying the <a href="https://github.com/chesterhow/tale">“tale”</a> theme.</p>
+<h2 id="-프로젝트-발표-자료">📄 프로젝트 발표 자료</h2>
+<ul>
+  <li>발표 자료는 <a href="파일_경로/발표자료.pdf">여기에서 다운로드할 수 있습니다</a>.</li>
+</ul>
+
+<h2 id="-프로젝트-구성원">👨‍👩‍👦 프로젝트 구성원</h2>
+<ul>
+  <li><strong>팀장</strong>: 김소연 - 회원가입, 로그인, 관리자, 결제 페이지</li>
+  <li><strong>팀원1</strong>: 조혜령 - 기획서 작성, 퍼블리싱, 좌석 선택, 상영시간표</li>
+  <li><strong>팀원2</strong>: 김우영 - TMDB.API를 이용한 페이지</li>
+  <li><strong>팀원3</strong>: 이병훈 - TMDB.API를 이용한 페이지, 고객센터</li>
+</ul>
+
+<h2 id="️-사용된-기술">⚙️ 사용된 기술</h2>
+<p>JAVA, MYSQL, JPA, Spring Framework, CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+
+<h1 id="-수행업무">💡 수행업무</h1>
+
+<h2 id="메인-페이지">메인 페이지</h2>
+<ul>
+  <li>TMDB API를 호출하여 인기순위, 상영작, 개봉예정작 및 비디오 데이터를 처리하여 영화 정보를 제공</li>
+</ul>
+
+<h2 id="영화-상세페이지">영화 상세페이지</h2>
+<ul>
+  <li>TMDB API를 호출하여 영화의 상세 내용을 동적으로 로드하여 사용자에게 제공.</li>
+  <li>사용자가 영화에 대한 평점을 주고 리뷰를 작성할 수 있는 폼을 구현</li>
+  <li>영화 정보를 카카오톡으로 공유기능</li>
+</ul>
+
+<h2 id="고객센터">고객센터</h2>
+<ul>
+  <li>Naver SMTP를 이용하여 사용자 문의 내용을 관리자에게 전송</li>
+  <li>실시간 통신을 위한 WebSocket을 사용하여, 사용자와 관리자가 즉시 메시지를 주고받을 수 있도록 개발.</li>
+</ul>
+
+<h2 id="공지사항-이벤트">공지사항, 이벤트</h2>
+<ul>
+  <li>기본적인 CRUD작업</li>
+</ul>
+
+<h2 id="관리자-페이지">관리자 페이지</h2>
+<ul>
+  <li>아이디: 1@admin.com 비밀번호: adminpw</li>
+  <li>이벤트, 공지사항 CRUD작업</li>
+  <li>1대 1 채팅, 문의 답변</li>
+</ul>
+
+<h2 id="-11-채팅-문의">📞 1:1 채팅 문의</h2>
+<ul>
+  <li><strong>문의 방법</strong>
+    <ul>
+      <li>카테고리 선택: 사용자가 문의하고자 하는 카테고리를 선택합니다.
+        <ul>
+          <li>예를 들어, “예매” 카테고리를 선택하면 해당 카테고리에 지정된 관리자에게 문의가 전송됩니다. 이 경우, 문의는 1@admin.com으로 전달됩니다.</li>
+          <li>예매: 1@admin.com, 판매: 2@admin.com, 행사: 3@admin.com, 기타: 4@admin.com</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>다양한 로그인 방식</strong>
+    <ul>
+      <li>사용자는 일반 사용자 계정으로 로그인한 상태에서 문의를 진행할 수 있습니다. 이때, 일반 사용자는 고객센터에서 카테고리를 선택하고 메시지를 작성합니다.</li>
+      <li>동시에 관리자는 다른 브라우저에서 카테고리에 맞는 계정으로 로그인하여 어드민 페이지를 열어 놓습니다. 사용자가 선택한 카테고리에 따라 해당 관리자에게 메시지가 전달됩니다.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="-이메일-기능-설정">📧 이메일 기능 설정</h2>
+<ul>
+  <li><strong>구성 편집</strong>: 이메일 기능을 사용하기 위해 환경변수로 네이버 아이디와 비밀번호를 설정해야 합니다.
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">adminPassword= ; adminEmail=</code></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="-소셜-로그인">🚫 소셜 로그인</h2>
+<ul>
+  <li>client-id, client-secret와 같은 민감한 정보가 포함되어 있어서 보안상의 이유로 소셜 로그인은 비활성화했습니다.</li>
+  <li>클라이언트 ID 및 비밀번호 누락: 소셜 로그인 기능을 활성화하기 위해 필요한 client-id와 client-secret 설정이 없습니다.</li>
+</ul>
+
+<h2 id="-데이터-관리">📊 데이터 관리</h2>
+<ul>
+  <li><strong>영화 데이터</strong>: 외부 API를 통해 자동으로 가져오므로, 별도로 관리자가 생성할 필요는 없습니다.</li>
+  <li><strong>예매, 스낵, 이벤트, 공지사항</strong>: 이러한 데이터는 관리자가 직접 등록해야 하며, 관련 기능은 관리자 페이지에서 처리할 수 있습니다.</li>
+  <li><strong>1:1 채팅 이메일 문의</strong>: 사용자가 문의를 하면 해당 내용이 관리자 페이지에 표시됩니다. 관리자는 이를 통해 사용자와 소통할 수 있습니다.</li>
+</ul>
 
 
 </div>
@@ -73,7 +155,7 @@ I made it by modifying the <a href="https://github.com/chesterhow/tale">“tale�
 
     <footer>
       <span>
-        &copy; <time datetime="2024-09-14 16:06:54 +0900">2024</time> byeongHoon Lee. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
+        &copy; <time datetime="2024-09-14 21:31:54 +0900">2024</time> byeongHoon Lee. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
       </span>
     </footer>
   </body>

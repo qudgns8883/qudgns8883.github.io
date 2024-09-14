@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Toy Project"
-info: "toy project"
-tech: "python"
-type: Toy 
+title:  "CozyHouse"
+info: 쇼핑몰
+tech: "Java, Spring Boot, Spring Data JPA, Spring Security, MySQL"
+type: Team project
 ---
 
 ## Toy Project 1.
