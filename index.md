@@ -44,7 +44,7 @@ layout: about
 <br/>
 * AWS EC2, RDS<span style="padding-left: 53px;"></span>EC2를 통해 서버를 배포할 수 있으며, RDS를 통해 데이터베이스를 관리 할 수 있습니다.  
 <br/>
-* gitHud <span style="padding-left: 105px;"></span>소스 코드 버전 관리를 수행하고, 브랜치를 이용해 기능 개발을 진행할 수 있습니다.
+* gitHub <span style="padding-left: 105px;"></span>소스 코드 버전 관리를 수행하고, 브랜치를 이용해 기능 개발을 진행할 수 있습니다.
 
 <br/>
 

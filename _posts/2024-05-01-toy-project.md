@@ -9,8 +9,10 @@ type: Team project
 # 📌 CozyHouse
 "cinema"와 "broadcast"의 결합으로 영화를 브로드캐스팅하여 사용자에게 최신 영화 정보와 편리한 예매 서비스를 제공합니다.
 
+
 ## 🖥️ 프로젝트 소개
 스프링 부트를 이용해 오늘의 집 사이트를 참고하여 만든 쇼핑몰입니다.
+
 
 ## 👨‍👩‍👦 프로젝트 구성원
 - **팀장**: 김민석 - 프론트엔드
@@ -19,9 +21,10 @@ type: Team project
 
 
 ## ⚙️ 사용된 기술
-JAVA, MYSQL, JPA, Spring Framework, CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY
+Java, Spring Boot, Spring Data JPA, Spring Security, MySQL
 
-# 💡 수행업무
+
+# 💡 담당 기능
 
 ## 회원가입
 - OAuth2 방식을 사용하여 JWT를 이용한 회원가입 기능을 구현하였습니다.
@@ -60,5 +63,6 @@ JAVA, MYSQL, JPA, Spring Framework, CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY
    
 ## 결론
 - 소셜 로그인 과정에서 하이퍼링크로 인한 리다이렉션 문제 때문에, 결국 쿠키를 사용해 토큰을 전송하는 방식을 선택했습니다. 이후, 엑세스 토큰을 요청 헤더로 변환하여 클라이언트에 전달함으로써 일관성을 유지했습니다. 로그인 성공 핸들러에서 JWT 발급 방식을 통합해 JWTFilter의 일관성을 확보했으며, 이는 보안과 사용성을 동시에 고려한 해결책으로 효과적으로 적용되었습니다.
+
 ## 느낀 점
-- JWT 토큰을 활용하여 쿠키와 요청 헤더를 조합한 인증 방식이 효과적이라는 것을 깨달았습니다. 특히 HttpOnly 속성의 중요성을 통해 XSS 공격 방어를 강화할 수 있음을 배웠고, **CSP(Content Security Policy)**와 로컬 스토리지로 클라이언트 측 보안을 높일 수 있었습니다. 이번 경험을 통해 웹 보안의 중요성을 깊이 이해하게 되었고, 앞으로 JWT를 활용해 안전하고 효율적인 시스템을 구축하는 데 기여하고 싶습니다.
+- JWT 토큰을 활용하여 쿠키와 요청 헤더를 조합한 인증 방식이 효과적이라는 것을 깨달았습니다. 특히 HttpOnly 속성의 중요성을 통해 XSS 공격 방어를 강화할 수 있음을 배웠고, CSP(Content Security Policy)와 로컬 스토리지로 클라이언트 측 보안을 높일 수 있었습니다. 이번 경험을 통해 웹 보안의 중요성을 깊이 이해하게 되었고, 앞으로 JWT를 활용해 안전하고 효율적인 시스템을 구축하는 데 기여하고 싶습니다.
