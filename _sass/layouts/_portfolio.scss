@@ -46,4 +46,24 @@
   &-icon-text {
     margin-left: 0.8rem;
   }
+
+  .portfolio-item {
+    display: flex; /* 플렉스박스를 사용하여 이미지와 내용을 나란히 배치 */
+    align-items: center; /* 수직 정렬 */
+    margin-bottom: 20px; /* 항목 간의 간격 */
+  }
+
+  .portfolio-image {
+    margin-right: 20px; /* 이미지와 내용 간의 간격 */
+  }
+
+  .portfolio-image img {
+    max-width: 100px; /* 이미지 최대 너비 설정 */
+    height: auto; /* 비율 유지 */
+    border-radius: 5px; /* 이미지 모서리 둥글게 */
+  }
+
+  .portfolio-details {
+    flex-grow: 1; /* 내용을 여유 공간에 맞게 확장 */
+  }
 }
