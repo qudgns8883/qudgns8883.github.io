@@ -14,7 +14,7 @@ type: Team project
 또한, 부산의 지하철과 버스 정보를 통합하여 교통편을 쉽게 체크할 수 있으며, 일기처럼 하루의 일정을 기록할 수 있는 기능도 제공합니다.
 
 ## 📄 프로젝트 발표 자료
-- 발표 자료는 [여기에서 다운로드할 수 있습니다](파일_경로/발표자료.pdf).
+- 발표 자료는 [여기에서 다운로드할 수 있습니다](https://docs.google.com/presentation/d/1KQ-F4DNNuuqudbfg9VAc5JMa-u_E14DF/edit?usp=drive_link&ouid=104385299162078736648&rtpof=true&sd=true).
 
 ## 👨‍👩‍👦 프로젝트 구성원
 - **팀장**: 이병훈 - 회원가입, 마이페이지
