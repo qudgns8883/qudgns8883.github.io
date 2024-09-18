@@ -13,7 +13,7 @@ type: Collaboration
 스프링 부트를 이용해 다양한 영화관 사이트를 참고하여 만든 영화 예매 사이트입니다.
 
 ## 📄 프로젝트 발표 자료
-- 발표 자료는 [여기에서 다운로드할 수 있습니다](파일_경로/발표자료.pdf).
+- 발표 자료는 [여기에서 다운로드할 수 있습니다](https://docs.google.com/presentation/d/1Ua3kVJtuOFLrB7LKAKkkmn6AiUeTZ_L_/edit?usp=drive_link&ouid=104385299162078736648&rtpof=true&sd=true).
 
 ## 👨‍👩‍👦 프로젝트 구성원
 - **팀장**: 김소연 - 회원가입, 로그인, 관리자, 결제 페이지
@@ -24,6 +24,7 @@ type: Collaboration
 ## ⚙️ 사용된 기술
 JAVA, MYSQL, Spring Data JPA, Spring Boot, CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY
 
+<br/>
 
 # 💡 담당 기능
 
@@ -68,6 +69,8 @@ JAVA, MYSQL, Spring Data JPA, Spring Boot, CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, J
 - **영화 데이터**: 외부 API를 통해 자동으로 가져오므로, 별도로 관리자가 생성할 필요는 없습니다.
 - **예매, 스낵, 이벤트, 공지사항**: 이러한 데이터는 관리자가 직접 등록해야 하며, 관련 기능은 관리자 페이지에서 처리할 수 있습니다.
 - **1:1 채팅 이메일 문의**: 사용자가 문의를 하면 해당 내용이 관리자 페이지에 표시됩니다. 관리자는 이를 통해 사용자와 소통할 수 있습니다.
+
+<br/>
 
 # 🛠️ 트러블슈팅 내용
 

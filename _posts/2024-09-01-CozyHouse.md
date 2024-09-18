@@ -23,6 +23,7 @@ type: Team project
 ## ⚙️ 사용된 기술
 Java, Spring Boot, Spring Data JPA, Spring Security, MySQL
 
+<br/>
 
 # 💡 담당 기능
 
@@ -42,6 +43,7 @@ Java, Spring Boot, Spring Data JPA, Spring Security, MySQL
 ## 글쓰기
 - 파일 업로드를 위해 MultiparFile와 Java NIO를 사용하여 처리합니다.
 
+<br/>
 
 # 🛠️ 트러블슈팅 내용
 
