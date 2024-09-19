@@ -1,13 +1,13 @@
 # Site settings
-title: LBH
+title: main
 baseurl: ""
 url: "https://qudgns8883.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: byeongHoon Lee
-  desc: 안녕하세요
+  name: 이병훈
+  desc:
   email: qudgns8882@naver.com
   selfie: assets/img/profile.jpg
 

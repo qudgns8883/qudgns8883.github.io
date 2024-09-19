@@ -22,7 +22,7 @@ layout: about
 * (2021/02 ~ 2023/11) <span style="padding-left: 130px;"></span>대상웰라이프(주)  
       (비개발)<span style="padding-left: 207px;"></span>오퍼레이터로 생산 및 설비 관리
 
-* (2019/12 ~ 2021/04)<span style="padding-left: 130px;"></span>삼성SDI(주) 
+* (2019/12 ~ 2021/04)<span style="padding-left: 130px;"></span>삼성SDI(주)  
   (비개발)<span style="padding-left: 205px;"></span>오퍼레이터로 생산 및 설비 관리
 
 <br/>
@@ -53,3 +53,4 @@ layout: about
 * **Phone:** 010-5293-2683
 * **GitHub:** [github.com/qudgns8883](https://github.com/qudgns8883?tab=repositories)
 * **Notion:** [노션 링크](https://bottlenose-asparagus-798.notion.site/248d53b04dac47ddbb3ddf819a9f2398)
+* **Date of Birth:** 1996/08
