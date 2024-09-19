@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-주어진 상황을 바꿀 수 없더라도, 이를 바라보는 관점은 언제든지 바꿀 수 있다고 생각합니다. 그래서 저는 주저앉기보다는 다시 일어설 방법을 고민하며 성장해왔고, 어려운 상황에서도 포기하지 않고 끝까지 최선을 다하는 것이 중요하다고 믿습니다.
+주어진 상황을 바꿀 수 없더라도, 이를 바라보는 관점은 언제든지 바꿀 수 있다고 생각합니다. 그래서 저는 주저앉기보다는 다시 일어설 방법을 고민하며 성장해왔고, 어려운 상황에서도 긍정적인 태도를 유지하며 새로운 해결책을 모색하는 것이 중요하다고 생각합니다.
 
 이러한 과정이 팀에 활기를 불어넣고, 시너지 효과를 만들어낼 수 있다고 생각합니다. 함께 협력하며 긍정적인 에너지를 나누는 과정에서 팀과 함께 성장할 수 있다는 점은 저에게 큰 의미가 있습니다. 서로의 경험과 아이디어를 공유하며, 더 나은 결과를 만들어가는 여정은 언제나 저를 더욱 발전시키는 원동력이 됩니다.
 
@@ -19,10 +19,10 @@ layout: about
 <br/>
 
 # Career
-* (2021/02 ~ 2023/11) <span style="padding-left: 130px;"></span>대상웰라이프  
+* (2021/02 ~ 2023/11) <span style="padding-left: 130px;"></span>대상웰라이프(주)  
       (비개발)<span style="padding-left: 207px;"></span>오퍼레이터로 생산 및 설비 관리
 
-* (2019/12 ~ 2021/04)<span style="padding-left: 130px;"></span>삼성SDI  
+* (2019/12 ~ 2021/04)<span style="padding-left: 130px;"></span>삼성SDI(주) 
   (비개발)<span style="padding-left: 205px;"></span>오퍼레이터로 생산 및 설비 관리
 
 <br/>
@@ -53,4 +53,3 @@ layout: about
 * **Phone:** 010-5293-2683
 * **GitHub:** [github.com/qudgns8883](https://github.com/qudgns8883?tab=repositories)
 * **Notion:** [노션 링크](https://bottlenose-asparagus-798.notion.site/248d53b04dac47ddbb3ddf819a9f2398)
-* <strong>Portfolio:</strong> <a href="https://yourportfolio.com" target="_blank">yourportfolio.com</a>
