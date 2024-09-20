@@ -3,7 +3,7 @@ layout: post
 title:  "CinemaCast"
 info: "영화예매사이트"
 tech : "Java, Spring Boot, Spring Data JPA, Spring Security, MySQL"
-type: Collaboration
+type: Team project
 ---
 
 # 🖥️ 프로젝트 소개

@@ -41,11 +41,13 @@
   <h2 class="post-title">CinemaCast</h2>
   <div class="post-line"></div>
 
-  <h1 id="-cinemacast">📌 Cinemacast</h1>
-<p>“cinema”와 “broadcast”의 결합으로 영화를 브로드캐스팅하여 사용자에게 최신 영화 정보와 편리한 예매 서비스를 제공합니다.</p>
+  <h1 id="️-프로젝트-소개">🖥️ 프로젝트 소개</h1>
+<p>영화관 사이트를 참고하여 “cinema”와 “broadcast”의 결합으로 영화 정보와 편리한 예매 기능을 제공하는 웹 애플리케이션을 개발하였습니다.</p>
 
-<h2 id="️-프로젝트-소개">🖥️ 프로젝트 소개</h2>
-<p>스프링 부트를 이용해 다양한 영화관 사이트를 참고하여 만든 영화 예매 사이트입니다.</p>
+<p><br /></p>
+
+<h2 id="-github-주소">🔗 GitHub 주소</h2>
+<p><a href="https://github.com/qudgns8883/CINEMACAST">프로젝트 GitHub 저장소</a></p>
 
 <h2 id="-프로젝트-발표-자료">📄 프로젝트 발표 자료</h2>
 <ul>
@@ -54,14 +56,21 @@
 
 <h2 id="-프로젝트-구성원">👨‍👩‍👦 프로젝트 구성원</h2>
 <ul>
-  <li><strong>팀장</strong>: 김소연 - 회원가입, 로그인, 관리자, 결제 페이지</li>
-  <li><strong>팀원1</strong>: 조혜령 - 기획서 작성, 퍼블리싱, 좌석 선택, 상영시간표</li>
-  <li><strong>팀원2</strong>: 김우영 - TMDB.API를 이용한 페이지</li>
-  <li><strong>팀원3</strong>: 이병훈 - TMDB.API를 이용한 페이지, 고객센터</li>
+  <li><strong>팀장</strong>: 김소연 - 회원가입, 로그인, 관리자, 결제 페이지 개발</li>
+  <li><strong>팀원1</strong>: 조혜령 - 기획서 작성, 퍼블리싱, 좌석 선택 및 상영시간표 구현</li>
+  <li><strong>팀원2</strong>: 김우영 - TMDB.API를 이용한 영화 정보 페이지 개발</li>
+  <li><strong>팀원3</strong>: 이병훈 - TMDB.API를 이용한 영화 정보 페이지 및 고객센터 구현</li>
 </ul>
 
 <h2 id="️-사용된-기술">⚙️ 사용된 기술</h2>
-<p>JAVA, MYSQL, Spring Data JPA, Spring Boot, CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY</p>
+<ul>
+  <li><strong>Java</strong>: 서버 사이드 로직 구현</li>
+  <li><strong>Spring Boot</strong>: 애플리케이션의 빠른 개발을 위한 프레임워크</li>
+  <li><strong>Spring Data JPA</strong>: 데이터베이스와의 원활한 상호작용을 위한 ORM</li>
+  <li><strong>Spring Security</strong>: 안전한 인증 및 권한 관리를 위한 보안 프레임워크</li>
+  <li><strong>MySQL</strong>: 데이터 저장을 위한 관계형 데이터베이스</li>
+  <li><strong>CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY</strong>: 프론트엔드 개발</li>
+</ul>
 
 <p><br /></p>
 
@@ -69,35 +78,33 @@
 
 <h2 id="메인-페이지">메인 페이지</h2>
 <ul>
-  <li>TMDB API를 호출하여 인기순위, 상영작, 개봉예정작 및 비디오 데이터를 처리하여 영화 정보를 제공</li>
+  <li>TMDB API를 호출하여 인기순위, 상영작, 개봉예정작 및 비디오 데이터를 처리하여 영화 정보를 제공합니다.</li>
 </ul>
 
 <h2 id="영화-상세페이지">영화 상세페이지</h2>
 <ul>
-  <li>TMDB API를 호출하여 영화의 상세 내용을 동적으로 로드하여 사용자에게 제공.</li>
-  <li>사용자가 영화에 대한 평점을 주고 리뷰를 작성할 수 있는 폼을 구현</li>
-  <li>영화 정보를 카카오톡으로 공유기능</li>
+  <li>TMDB API를 호출하여 영화의 상세 내용을 동적으로 로드하여 사용자에게 제공합니다.</li>
+  <li>사용자가 영화에 대한 평점을 주고 리뷰를 작성할 수 있는 폼을 구현했습니다.</li>
+  <li>영화 정보를 카카오톡으로 공유하는 기능을 추가하여, 사용자 간의 영화 정보 공유를 용이하게 하였습니다.</li>
 </ul>
 
 <h2 id="고객센터">고객센터</h2>
 <ul>
-  <li>Naver SMTP를 이용하여 사용자 문의 내용을 관리자에게 전송</li>
-  <li>실시간 통신을 위한 WebSocket을 사용하여, 사용자와 관리자가 즉시 메시지를 주고받을 수 있도록 개발.</li>
+  <li>Naver SMTP를 이용하여 사용자 문의 내용을 관리자에게 전송하는 기능을 구현 했습니다.</li>
+  <li>WebSocket을 사용하여 사용자와 관리자가 실시간으로 메시지를 주고받을 수 있도록 하였습니다.</li>
 </ul>
 
 <h2 id="공지사항-이벤트">공지사항, 이벤트</h2>
 <ul>
-  <li>기본적인 CRUD작업</li>
+  <li>기본적인 CRUD 작업을 통해 이벤트 및 공지사항 관리 기능을 구현했습니다.</li>
 </ul>
 
 <h2 id="관리자-페이지">관리자 페이지</h2>
 <ul>
-  <li>아이디: 1@admin.com 비밀번호: adminpw 로 로그인</li>
-  <li>이벤트, 공지사항 CRUD작업</li>
-  <li>1대 1 채팅, 문의 답변</li>
+  <li>관리자는 지정된 ID와 비밀번호로 로그인 후 이벤트 및 공지사항의 CRUD 작업을 수행할 수 있습니다.</li>
+  <li>1대 1 채팅 및 사용자 문의에 대한 답변 기능을 구현했습니다.
+<br /></li>
 </ul>
-
-<p><br /></p>
 
 <h1 id="️-트러블슈팅-내용">🛠️ 트러블슈팅 내용</h1>
 
@@ -146,48 +153,6 @@
   <li><strong>애플리케이션 설계의 안정성</strong>: 작은 실수라도 데이터 무결성에 큰 영향을 미칠 수 있다는 점을 깨달았고, 이를 예방하기 위해 필드 초기화와 트랜잭션 관리를 항상 고려해야 한다는 점을 알게 되었습니다.</li>
 </ol>
 
-<p><br /></p>
-
-<h1 id="사용-방법">사용 방법</h1>
-
-<h2 id="11-채팅-문의-시-로그인-방법">1:1 채팅 문의 시 로그인 방법</h2>
-<ol>
-  <li>사용자는 일반 사용자 계정으로 로그인한 상태에서 문의를 진행할 수 있습니다.</li>
-  <li>관리자는 다른 브라우저에서 관리자 계정으로 로그인하여 어드민 페이지를 열어 놓습니다.</li>
-  <li>이렇게 두 개의 브라우저에서 각각 일반 사용자와 관리자가 로그인함으로써, 사용자가 선택한 카테고리에 맞는 관리자에게 실시간으로 메시지가 전달되고, 즉각적인 소통이 가능합니다.</li>
-</ol>
-
-<h2 id="문의-방법">문의 방법</h2>
-<ol>
-  <li>카테고리 선택: 사용자가 문의하고자 하는 카테고리를 선택합니다.</li>
-  <li>예를 들어, “예매” 카테고리를 선택하면 해당 카테고리에 지정된 관리자에게 문의가 전송됩니다.</li>
-  <li>예매: 1@admin.com, 판매: 2@admin.com, 행사: 3@admin.com, 기타: 4@admin.com</li>
-</ol>
-
-<h2 id="-이메일-기능-설정">📧 이메일 기능 설정</h2>
-<ul>
-  <li>구성 편집: 이메일 기능을 사용하기 위해 환경변수로 네이버 아이디와 비밀번호를 설정해야 합니다.
-    <ul>
-      <li><code class="language-plaintext highlighter-rouge">adminPassword= ; adminEmail=</code></li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="-소셜-로그인">🚫 소셜 로그인</h2>
-<ul>
-  <li>client-id, client-secret와 같은 민감한 정보가 포함되어 있어서 보안상의 이유로 소셜 로그인은 비활성화했습니다.</li>
-  <li>클라이언트 ID 및 비밀번호 누락: 소셜 로그인 기능을 활성화하기 위해 필요한 client-id와 client-secret 설정이 없습니다.</li>
-</ul>
-
-<p><br /></p>
-
-<h1 id="-데이터-관리">📊 데이터 관리</h1>
-<ul>
-  <li><strong>영화 데이터</strong>: 외부 API를 통해 자동으로 가져오므로, 별도로 관리자가 생성할 필요는 없습니다.</li>
-  <li><strong>예매, 스낵, 이벤트, 공지사항</strong>: 데이터는 관리자가 직접 등록해야 하며, 관련 기능은 관리자 페이지에서 처리할 수 있습니다.</li>
-  <li><strong>1:1 채팅 이메일 문의</strong>: 사용자가 문의를 하면 해당 내용이 관리자 페이지에 표시됩니다. 관리자는 이를 통해 사용자와 소통할 수 있습니다.</li>
-</ul>
-
 
 </div>
 
@@ -206,7 +171,7 @@
 
     <footer>
       <span>
-        &copy; <time datetime="2024-09-19 20:17:08 +0900">2024</time> 이병훈. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
+        &copy; <time datetime="2024-09-20 17:28:12 +0900">2024</time> 이병훈. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
       </span>
     </footer>
   </body>
