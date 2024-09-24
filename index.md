@@ -18,10 +18,17 @@ layout: about
 
 <br/>
 
+# Education
+* 2020.02<span style="padding-left: 120px;"></span>경남정보대학교  
+  <span style="padding-left: 175px;"></span>전자과
+* 2024.07<span style="padding-left: 120px;"></span>부산IT아카데미  
+  <span style="padding-left: 175px;"></span> (스마트웹&콘텐츠개발)자바웹 콘텐츠개발
+
+<br/>
+
 # Career
 * 2021/02 ~ 2023/11 <span style="padding-left: 113px;"></span>대상웰라이프(주)  
       (비개발)<span style="padding-left: 195px;"></span>오퍼레이터로 생산 및 설비 관리
-
 * 2019/12 ~ 2021/04<span style="padding-left: 115px;"></span>삼성SDI(주)  
   (비개발)<span style="padding-left: 195px;"></span>오퍼레이터로 생산 및 설비 관리
 
