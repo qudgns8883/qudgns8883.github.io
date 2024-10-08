@@ -15,7 +15,7 @@ type: Team project
 [프로젝트 GitHub 저장소](https://github.com/qudgns8883/CozyHouse)
 
 ## 📝 노션 주소
-[노션](https://www.notion.so/CozyHouse-1011bba98c5780008c91cba0d4993b25)
+[노션링크](https://www.notion.so/CozyHouse-1011bba98c5780008c91cba0d4993b25)
 ## 👨‍👩‍👦 프로젝트 구성원
 - **팀장**: 김민석 - 프론트엔드 
 - **팀원1**: 이병훈 - 백엔드
