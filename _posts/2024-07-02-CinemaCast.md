@@ -64,9 +64,11 @@ type: Team project
 ### Docker를 활용한 환경 설정
 - **Docker**와 **Docker Compose**를 사용하여 개발 환경과 배포 환경을 통일하였습니다. 이를 통해 로컬 개발 환경에서의 문제를 최소화하고, 운영 환경에 쉽게 배포할 수 있는 기반을 마련했습니다.
 
-## 📝 노션 링크
-[배포 정리](https://bottlenose-asparagus-798.notion.site/GitHub-Actions-Docker-NGINX-EC2-RDS-CI-CD-1141bba98c5780a8b299e9806e62544e?pvs=74)
+## 📝 노션 
+[CICD 정리](https://bottlenose-asparagus-798.notion.site/GitHub-Actions-Docker-NGINX-EC2-RDS-CI-CD-1141bba98c5780a8b299e9806e62544e?pvs=74)
 
+### ARCHITECTURE
+<img class="selfie" alt="이병훈" src="/assets/img/architecture.png" />
 
 <br/>
 
