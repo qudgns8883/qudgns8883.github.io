@@ -36,7 +36,7 @@ layout: about
 * AWS EC2, RDS<span style="padding-left: 61px;"></span>EC2를 통해 서버를 배포할 수 있으며, RDS를 통해 데이터베이스를 관리  
   <span style="padding-left: 160px;"></span>할 수 있습니다.  
   <br/>
-* gitHub <span style="padding-left: 108px;"></span>소스 코드 버전 관리를 수행하고, 브랜치를 이용해 기능 개발을 진행할 수 있습니다.  
+* GitHub <span style="padding-left: 108px;"></span>소스 코드 버전 관리를 수행하고, 브랜치를 이용해 기능 개발을 진행할 수 있습니다.  
   <br/>
 * GitHub Actions<span style="padding-left: 55px;"></span>자동화된 빌드 및 배포 프로세스를 구현해본 경험이 있습니다.  
   <br/>
@@ -45,8 +45,8 @@ layout: about
   <br/>
 
 # Certifications
-* 2024.06<span style="padding-left: 120px;"></span> 정보처리기사
 * 2024.09<span style="padding-left: 120px;"></span> SQLD
+* 2024.06<span style="padding-left: 120px;"></span> 정보처리기사
 * 2023.12<span style="padding-left: 120px;"></span> 네트워크관리 2급
 * 2023.06<span style="padding-left: 120px;"></span> 산업안전산업기사
 * 2021.06<span style="padding-left: 120px;"></span> 기계설계산업기사
