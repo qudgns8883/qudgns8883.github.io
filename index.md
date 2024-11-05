@@ -145,8 +145,8 @@ AOP를 활용해 애플리케이션 전반에 걸쳐 발생하는 예외를 처�
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
+
 
 ### 📦 배포 경험
 [CICD 정리](https://bottlenose-asparagus-798.notion.site/GitHub-Actions-Docker-NGINX-EC2-RDS-CI-CD-1141bba98c5780a8b299e9806e62544e?pvs=74)
@@ -171,4 +171,9 @@ AOP를 활용해 애플리케이션 전반에 걸쳐 발생하는 예외를 처�
 #### 결과
 애플리케이션 성능 개선: 애플리케이션 재시작 시와 메인 페이지 이동 시 16초에서 2초로 응답 시간을 줄임으로써 사용자 경험을 크게 개선함.
 
-
+### Contact
+* **Email:** [qudgns8882@naver.com](mailto:qudgns8882@naver.com)
+* **Phone:** 010-5293-2683
+* **GitHub:** [github.com/qudgns8883](https://github.com/qudgns8883?tab=repositories)
+* **Notion:** [노션 링크](https://bottlenose-asparagus-798.notion.site/248d53b04dac47ddbb3ddf819a9f2398)
+* **Date of Birth:** 1996/08
