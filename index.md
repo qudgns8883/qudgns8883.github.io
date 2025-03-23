@@ -3,17 +3,35 @@ layout: about
 ---
 
 ### About Me
-주어진 상황을 바꿀 수 없더라도, 이를 바라보는 관점은 언제든지 바꿀 수 있다고 생각합니다. 그래서 저는 주저앉기보다는 다시 일어설 방법을 고민하며 성장해왔고, 어려운 상황에서도 긍정적인 태도를 유지하며 새로운 해결책을 모색하는 것이 중요하다고 생각합니다.
+주어진 상황을 바꿀 수 없더라도, 이를 바라보는 관점은 언제든지 바꿀 수 있다고 생각합니다. 그래서 저는 주저앉기보다는 다시 일어설 방법을 고민하며 성장해왔고 어려운 상황에서도 긍정적인 태도를 유지하며 새로운 해결책을 모색하는 것이 중요하다고 생각합니다.
 
-이러한 과정이 팀에 활기를 불어넣고, 시너지 효과를 만들어낼 수 있다고 생각합니다. 함께 협력하며 긍정적인 에너지를 나누는 과정에서 팀과 함께 성장할 수 있다는 점은 저에게 큰 의미가 있습니다. 서로의 경험과 아이디어를 공유하며, 더 나은 결과를 만들어가는 여정은 언제나 저를 더욱 발전시키는 원동력이 됩니다. 
+이러한 과정이 팀에 활기를 불어넣고 시너지 효과를 만들어낼 수 있다고 생각합니다. 함께 협력하며 긍정적인 에너지를 나누는 과정에서 팀과 함께 성장할 수 있다는 점은 저에게 큰 의미가 있습니다. 서로의 경험과 아이디어를 공유하며 더 나은 결과를 만들어가는 여정은 언제나 저를 더욱 발전시키는 원동력이 됩니다.
 
-### 지원동기
-1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
-3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
-4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
-5555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555
-6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+### Skills
+* JAVA<span style="padding-left: 130px;"></span>기본 문법을 이해하며, 객체지향 프로그래밍(OOP)원칙에 따라 클래스와 객체를   
+  <span style="padding-left: 163px;"></span>설계하고 구현이 가능합니다.
+  <br/>
+* JSP<span style="padding-left: 140px;"></span>웹 애플리케이션을 구성하는 모델(Model), 뷰(View), 컨트롤러(Controller)의 역할과   
+  <span style="padding-left: 162px;"></span>상호작용을 이해하고, MVC패턴을 구현할 수 있는 기초적인 이해가 되었습니다.
+  <br/>
+* Spring Framework<span style="padding-left: 35px;"></span>핵심 개념인 IoC와 DI의 원리와 사용법을 이해, 객체를 설계하고 구현이 가능합니다.
+  <br/>
+* Spring Data JPA<span style="padding-left: 53px;"></span>데이터베이스와의 상호작용을 자동화하고, CRUD작업을 수행할 줄 알며,  
+  <span style="padding-left: 163px;"></span>트랜잭션 관리와 객체 간의 연관관계를 처리할 수 있습니다.
+  <br/>
+* Oracle, MySQL<span style="padding-left: 60px;"></span>데이터베이스를 설계하고 관리할 수 있으며, SQL쿼리를 통해   
+  <span style="padding-left: 163px;"></span>CRUD작업을 수행할 수 있습니다.
+  <br/>
+* AWS EC2, RDS<span style="padding-left: 61px;"></span>EC2를 통해 서버를 배포할 수 있으며, RDS를 통해 데이터베이스를 관리  
+  <span style="padding-left: 160px;"></span>할 수 있습니다.
+  <br/>
+* GitHub <span style="padding-left: 108px;"></span>소스 코드 버전 관리를 수행하고, 브랜치를 이용해 기능 개발을 진행할 수 있습니다.
+  <br/>
+* GitHub Actions<span style="padding-left: 55px;"></span>자동화된 빌드 및 배포 프로세스를 구현해본 경험이 있습니다.
+  <br/>
+* Docker<span style="padding-left: 110px;"></span>애플리케이션을 컨테이너화하여 일관된 환경에서 배포해보고, Docker Compose를  
+  <span style="padding-left: 160px;"></span>사용하여 여러 서비스를 함께 관리해본 경험이 있습니다.
+  <br/>
 
 ### Certifications
 * 2024.09<span style="padding-left: 150px;"></span> SQLD
@@ -34,26 +52,64 @@ layout: about
 * 2019/12 ~ 2021/04<span style="padding-left: 115px;"></span>삼성SDI(주)  
   (비개발)<span style="padding-left: 195px;"></span>오퍼레이터로 생산 및 설비 관리
 
-#### Contact
-* **Email:** [qudgns8882@naver.com](mailto:qudgns8882@naver.com)
-* **Phone:** 010-5293-2683
-* **GitHub:** [github.com/qudgns8883](https://github.com/qudgns8883?tab=repositories)
-* **Notion:** [노션 링크](https://bottlenose-asparagus-798.notion.site/248d53b04dac47ddbb3ddf819a9f2398)
-* **Date of Birth:** 1996/08
+<br/>
+
+## 🖥️ 프로젝트 소개 (개발 중)
+배웠던 내용을 바탕으로 기본적인 쇼핑몰 시스템을 구현하며 다양한 기술들을 적용해 필요한 기능들을 추가했습니다.
+
+### 🔗 GitHub 주소
+[프로젝트 GitHub 저장소](https://github.com/qudgns8883/BookStore)  
+
+### ⚙️ 사용한 기술
+- **Java**: 애플리케이션의 기본 언어
+- **Spring Boot**: 웹 애플리케이션 개발 프레임워크
+- **Spring Security**: 인증 및 권한 관리를 위한 보안 프레임워크
+- **Spring Data JPA**: 데이터베이스와의 상호작용을 쉽게 해주는 ORM
+- **MySQL**: 데이터 저장을 위한 관계형 데이터베이스
+- **Kafka**: 로그 수집 및 메시지 브로커 역할
+- **ELK Stack**: 로그 저장 및 시각화
+
+## 💡 개발 업무
+
+### 사용자 이벤트 처리[[노션]](https://www.notion.so/1b41bba98c5780109425faf799df15cf)
+- 사용자가 상품 구매나 리뷰 작성 시 실시간 알림 전송 및 이벤트 로그 수집
+- 초기: 이벤트 리스너와 SSE 방식 → 최종: RabbitMQ를 거쳐 Kafka 활용
+
+### 로그 수집 및 분석[[노션]](https://www.notion.so/Kafka-ELK-1b41bba98c578081b9e7da334112a456)
+- Logstash + Kafka + Elasticsearch 조합으로 실시간 로그 수집 및 분석
+
+### 주문 처리 시스템 및 성능 테스트
+- 카카오페이로 상품 구매 가능
+- JMter로 100개 동시 주문 요청 테스트 후 비관적 락 적용하여 데이터 정합성 유지
+
+### 동적 쿼리 처리 [[노션]](https://www.notion.so/QueryDSL-1ba1bba98c5780a9aacce0a50c404d25)
+- 쿼리DSL을 사용하여 상품 카테고리, 가격, 날짜 범위 등 동적 필터링 조건 처리
+- 타입 안전성과 가독성 향상, 성능 최적화를 위한 동적 쿼리 생성
+
+### 배치 인서트 적용 [[노션]](https://www.notion.so/1bb1bba98c57808c958adf7dddb08b79)
+- 알림 메시지 저장 시 JDBC의 batchUpdate()를 통해 성능 개선
+- 여러 개의 알림을 한 번의 요청으로 저장하여 데이터베이스 쿼리 수를 줄이고 성능을 향상시킴
 
 
+## 🛠️ 트러블슈팅 내용  
+### 문제 상황  [[노션]](https://www.notion.so/1ae1bba98c57802a881ef077574d27cf)
+1. JMeter 테스트에서 동시 주문 처리 시 트랜잭션 충돌로 데이터 정합성 문제 발생
+2. 재고 및 마일리지 차감 처리 등 동시성 문제로 데이터 충돌
 
-<br/>
-<br/>
-<br/>
-<br/>
+### 해결 방안
+1. @Retryable 어노테이션으로 데드락 시 자동 재시도 처리
+2. 비관적 락(PESSIMISTIC_WRITE) 적용하여 동시성 문제 해결 및 데이터 정합성 유지
+
+### 느낀 점
+1. 비관적 락의 중요성 인식
+2. 락을 통해 성능과 안정성을 동시에 보장할 수 있다는 점 학습
 
 
 ## 🖥️ 프로젝트 소개(CozyHouse)
 오늘의 집 사이트를 참고하여 사용자에게 다양한 인테리어 상품을 판매하는 웹 애플리케이션을 개발하였습니다.
 
 ### 🔗 GitHub 주소       <span style="padding-left: 120px;"></span>  📝 노션 주소  <span style="padding-left: 120px;"></span>👨‍👩‍👦 프로젝트 구성원
-[프로젝트 GitHub 저장소](https://github.com/qudgns8883/CozyHouse) <span style="padding-left: 120px;"></span> [노션링크](https://www.notion.so/CozyHouse-1011bba98c5780008c91cba0d4993b25)<span style="padding-left: 120px;"></span>팀원1: 프론트엔드 팀원2: 이병훈 - 백엔드
+[프로젝트 GitHub 저장소](https://github.com/qudgns8883/CozyHouse) <span style="padding-left: 120px;"></span> [노션링크](https://www.notion.so/OAuth2-JWT-1011bba98c5780008c91cba0d4993b25)<span style="padding-left: 120px;"></span>팀원1: 프론트엔드 팀원2: 이병훈 - 백엔드
 
 ### ⚙️ 사용한 기술
 Java, Spring Boot, Spring Security, Spring Data JPA, MySQL
@@ -139,8 +195,7 @@ Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, Docker, GitHub Actio
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ### 📦 배포 경험 [CICD 정리](https://bottlenose-asparagus-798.notion.site/GitHub-Actions-Docker-NGINX-EC2-RDS-CI-CD-1141bba98c5780a8b299e9806e62544e?pvs=74)
 
@@ -165,8 +220,6 @@ Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, Docker, GitHub Actio
 #### 결과
 플리케이션 성능이 개선되어, 애플리케이션 재시작 시와 메인 페이지 이동 시 응답 시간을 16초에서 2초로 줄임으로써 사용자 경험이 개선되었습니다.
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -203,3 +256,13 @@ Android Studio, Kotlin, firebase, RoomDB
 #### 마이페이지
 - SharedPreferences를 사용하여 정보를 표시하고, 소셜 로그인 처리, 회원 정보 수정 및 탈퇴 기능을 제공하며,  
   Glide를 사용하여 사용자의 프로필 이미지를 로드합니다.
+
+<br/>
+<br/>
+
+### Contact
+* **Email:** [qudgns8882@naver.com](mailto:qudgns8882@naver.com)
+* **Phone:** 010-5293-2683
+* **GitHub:** [github.com/qudgns8883](https://github.com/qudgns8883?tab=repositories)
+* **Notion:** [노션 링크](https://bottlenose-asparagus-798.notion.site/248d53b04dac47ddbb3ddf819a9f2398)
+* **Date of Birth:** 1996/08
